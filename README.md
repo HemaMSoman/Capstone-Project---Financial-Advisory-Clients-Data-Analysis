@@ -11,6 +11,9 @@ The analysis was performed using Python, Pandas, NumPy, Matplotlib, Seaborn, and
 It includes:
 
 Phase 1 : Initial Data Understanding
+
 Phase 2 : Data Preprocessing
+
 Phase 3 : Exploratory Data Analysis
+
 Phase 4 : Overall Summary & Final Recommendations
